@@ -15,4 +15,4 @@ A program to detect when a convertible laptop switches to tablet mode, and enabl
 
 Only currently tested on my ThinkPad L390 Yoga running Ubuntu 19.10. It should work for most modern ThinkPads as is, but
 for different models the "input_device" variable will have to be adjusted and perhaps the indexes of the binary data
-changed. If it works on you device, or does not then please add an issue so I can add support.
+changed. If it works on you device, or does not, then please add an issue so I can add support.
